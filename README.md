@@ -29,7 +29,7 @@ this readme you'll find the following:
 2. In the terminal and in the root folder, download all the dependencies:
 ```
 yarn
-```
+
 
 3. Open cypress runners and  run test cases:
 ```
