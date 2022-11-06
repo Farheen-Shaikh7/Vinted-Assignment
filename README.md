@@ -1,4 +1,4 @@
-# vinted Automation Test Project
+# Vinted Automation Test Project
 
 This project contains the automated tests for vinted, supported by the [Cypress](http://cypress.io) framework. In
 this readme you'll find the following:
@@ -28,18 +28,18 @@ this readme you'll find the following:
 1. Clone this repository.
 2. In the terminal and in the root folder, download all the dependencies:
 ```
-yarn
-
-
+ yarn
+```
 3. Open cypress runners and  run test cases:
 ```
-- yarn cypress:open:Uk
-- yarn cypress:open:DE
+ yarn cypress:open:Uk
+ yarn cypress:open:DE
 
-
+```
 4.To execute tests and generate Allure Report
 ```
-- yarn test:UK-Allure
-- yarn test:DE-Allure
+ yarn test:UK-Allure
+ yarn test:DE-Allure
 
+```
 Note : After running command "index.html" file is automatically genereated in google chrome (you will automatically redirect)
